@@ -46,7 +46,7 @@ This repository provides scripts for:
 
 1. **Clone the repository:**
    ```pwsh
-   git clone https://github.com/<your-org>/AzureAppSendMail.git
+   git clone https://github.com/brsvppv/AzureAppSendMail.git
    cd AzureAppSendMail
    ```
 2. **Install required PowerShell modules:**
